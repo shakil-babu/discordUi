@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;700;800;900&display=swap');
+
+
+.navbar-brand img{
+    width: 140px;
+}
+
+.login-btn{
+border-radius: 40px;
+font-size: 14px;
+padding: 7px 16px;
+background:#fff;
+text-decoration: none;
+color: #333;
+font-weight: 500;
+font-family: 'Inconsolata', monospace
+}
+.login-btn:hover{
+    text-decoration: none !important;
+}
+
+.navbar-dark .navbar-nav .nav-link{
+    color:#fff !important;
+    margin: 10px;
+    padding: 10px;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+.navbar-dark .navbar-nav .nav-link:hover{
+    border-left: 3px solid #fff;
+}

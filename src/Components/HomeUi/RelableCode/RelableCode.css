@@ -1,0 +1,52 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@300;400;700;800;900&display=swap');
+
+
+.relable__container{
+    background: #f6f6f6;
+}
+
+.relable__area h1{
+    font-family: 'Inconsolata', monospace;
+    font-size: 56px;
+    font-weight: 700;
+    color: #333;
+}
+.relable__area p{
+    font-family: 'Inconsolata', monospace;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+   color: rgba(59, 54, 54, 0.897) !important;
+    margin-top: 25px;
+    width: 800px;
+    margin: auto;
+}
+
+.relable__area img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.skyblue{
+background: #7289da;
+border-radius: 28px;
+padding: 16px 32px;
+color: #ffffff;
+}
+.skyblue .icon{
+    font-size: 25px;
+    margin-right: 5px;
+
+}
+.skyblue:hover{
+    text-decoration: none;
+    box-shadow: 0 8px 15px rgba(0,0,0,.2);
+}
+.relable__area h3{
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Inconsolata', monospace;
+    margin: 30px 0;
+}

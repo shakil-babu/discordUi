@@ -1,0 +1,54 @@
+/* ============================================== Header section css ================ */
+
+.header__area{
+    width: 100%;
+    height: 100vh;
+    background: url('../../../images/hero-bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -80px;
+}
+.container__area{
+    width: 92%;
+    margin:auto ;
+}
+.header__content{
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    height: 80vh;
+    justify-content: center;
+}
+.btn__design{
+font-size: 20px;
+margin-top: 24px;
+}
+.white{
+margin-left: 70px;
+border-radius: 28px;
+padding: 16px 32px;
+background: #fff;
+color: #333;
+}
+.white .icon{
+    font-size: 25px;
+    margin-right: 5px;
+}
+.white:hover{
+    text-decoration: none;
+    box-shadow: 0 8px 15px rgba(0,0,0,.2);
+}
+.black{
+    margin-left: 24px;
+border-radius: 28px;
+padding: 16px 32px;
+background: #333;
+color: #fff;
+}
+.black:hover{
+    text-decoration: none;
+    box-shadow: 0 8px 15px rgba(0,0,0,.2);
+    color: #fff;
+}
