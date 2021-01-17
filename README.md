@@ -1,5 +1,5 @@
 **Home page**
-!['homepage']('https://i.ibb.co/P6rvNWC/dicord-img.png')
+![Discord Home Ui](https://i.ibb.co/P6rvNWC/dicord-img.png)
 
 
 # Getting Started with Create React App
